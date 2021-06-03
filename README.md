@@ -10,5 +10,6 @@
 
 <br/>At the end of the day, what you have is yourself. The sooner we realize that and come to love ourselves, the sooner we will realize what life is really all about.
 
+---
+############ made by siri
 
-<footer>made by siri</footer>
