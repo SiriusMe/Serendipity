@@ -1,3 +1,5 @@
+|[Home](README.md)|[Blog](Blog.md)|[About Me](about.md)|
+
 ## _A PIECE OF ME(PART-1)_ 
 
 <br/>There are four walls around me,
