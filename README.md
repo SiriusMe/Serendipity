@@ -1,4 +1,4 @@
-|[home](README.md)|[Blog](https://github.com/)|
+|[Home](README.md)|[Blog](Blog.md)|
 
 
 Hi, I'm Siri, 
