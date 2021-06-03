@@ -1,5 +1,6 @@
 |[Home](README.md)|[Blog](Blog.md)|[About Me](about.md)|
-<br/>## _Who are you? When nobody is around_
+
+## _Who are you? When nobody is around_
 ---
 
 <br/>You feel like the whole world is caving in on you,
