@@ -1,7 +1,7 @@
 |[Home](README.md)|[Blog](Blog.md)|[About Me](about.md)|
-
+---
 ## _A PIECE OF ME(PART-1)_ 
-
+---
 <br/>There are four walls around me,
 <br/>but still i feel like I'm not home.
 <br/>A piece of me is missing, 
