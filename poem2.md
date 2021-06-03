@@ -1,4 +1,6 @@
-## _Who are you? When nobody is around
+|[Home](README.md)|[Blog](Blog.md)|[About Me](about.md)|
+<br/>## _Who are you? When nobody is around_
+---
 
 <br/>You feel like the whole world is caving in on you,
 <br/>Someone in you, is pushing you off the cliff.
