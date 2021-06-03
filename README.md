@@ -1,7 +1,7 @@
 |[Home](README.md)|[Blog](Blog.md)|
 
 <<p align="center">
-  <img width="300" src="https://ibb.co/NFs0WvP">
+  <img width="300" src="https://i.ibb.co/cy1W2BH/IMG-0371.jpg">
 </p>
 
 Hi, I'm Siri, 
