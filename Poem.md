@@ -1,7 +1,7 @@
-##_A PIECE OF ME(PART-1)_ 
+## _A PIECE OF ME(PART-1)_ 
 
-There are four walls around me,
-but still i feel like I'm not home.
-A piece of me is missing, 
-no matter how much i turn.
-And at the end I'll be back to the first page.
+<br/>There are four walls around me,
+<br/>but still i feel like I'm not home.
+<br/>A piece of me is missing, 
+<br/>no matter how much i turn.
+<br/>And at the end I'll be back to the first page.
