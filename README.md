@@ -1,11 +1,10 @@
-|[Click here](https://github.com/)|[Or here](https://github.com/)|[Or here](https://github.com/)|
-|---|---|---|
+|[home](README.md)|[Blog](https://github.com/)|
 
-Hi, I'm Siri
+
+Hi, I'm Siri, 
 I post some stupid poems and stories here.
+Few things about me are I'm a Polyglot and I love pasta and Beaches and
+I made this stuff for fun.
 
-<details>
-<summary>Example</summary>
-<ul><li>This dropdown contains</li>
-<li>a list!</li></ul>
-</details>
+
+
