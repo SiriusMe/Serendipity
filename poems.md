@@ -2,7 +2,7 @@
 
 ## POEMS
 ---
-<br/> Just some random thoughts that comes to my mind!!
+<br/> Just some random thoughts that come to my mind!!
 
 <br>
 
