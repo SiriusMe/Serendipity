@@ -2,11 +2,11 @@
 
 ## BLOG POSTS
 ---
-<br/>[Click here for poems ](poems.md)
+<br/>[Click here for **Poems** ](poems.md)
 
 <br>
 
-<br/>[click here for stories](stories.md)
+<br/>[Click here for **Stories**](stories.md)
 
 ---
 ###### made by siri
