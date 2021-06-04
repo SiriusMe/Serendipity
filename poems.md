@@ -1,3 +1,5 @@
+|[Home](README.md)|[Blog](Blog.md)|[About Me](about.md)|
+
 ## POEMS
 ---
 <br/> Just some random thoughts that comes to my mind!!
