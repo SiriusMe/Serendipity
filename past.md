@@ -6,13 +6,13 @@ One’s mind is the most nostalgic place ever.
 <br>It’s creepy, interesting, beautiful and sad all at the same time
 when you dig into those minds.
 <br>
-Lemme share a peek to my past…
+<br>Lemme share a peek to my past…
 <br>Childhood is the most precious time in everyone’s life, but I
 think it definitely doesn’t define who we are now.
 <br>Nevertheless, it can be said that the inner child is kept alive by 
 childhood memories.
 <br>
-I was born and brought up in a very adorable family, I am the 
+<br>I was born and brought up in a very adorable family, I am the 
 only child and my parents are my best friends since I was 
 born.
 <br>I don’t remember much of my early childhood…
@@ -31,7 +31,7 @@ my parents and this went on pretty much for like half sem XD
 Many people crossed my life… some good… some bad…. 
 Some also gave me very good life lessons.
 <br>
-Then comes the early teenage, as a high schooler I was pretty 
+<br>Then comes the early teenage, as a high schooler I was pretty 
 much an introvert, but I was very good in academics also I
 was a classical dancer and a hella stubborn-ass, if I fixed my 
 mind on something I wouldn’t stop until I get it!!
@@ -44,7 +44,7 @@ everyone wants to be with.
 <br>Trying to be someone who you’re not only makes you look 
 pathetic. Anyways…
 <br>
-After that came the most exciting and beautiful part of my 
+<br>After that came the most exciting and beautiful part of my 
 life. I was no longer that pathetic girl with braces who craved 
 for the warmth of friendship..
 <br>By that time, I already found the people who brought that 
@@ -59,7 +59,7 @@ before.
 <br>Crazy part is they know me more than I know myself!!
 I hope everyone have atleast one person like this in their life.
 <br>
-Then I met the person who is now the biggest part of my life, 
+<br>Then I met the person who is now the biggest part of my life, 
 a person who accepted me for who I was and puts up with all 
 my craziness.
 <br>Even tho we spent a very short time together, it happened to 
@@ -71,7 +71,7 @@ all the things you wanna do in life and makes you feel like
 you’re the luckiest person!!!
 <br>DON’T LOSE THAT HUMAN!!!
 <br>
-Aaannnnnddddddd currently, I came a long way and I’m a girl 
+<br>Aaannnnnddddddd currently, I came a long way and I’m a girl 
 who know exactly what she wants and where she’s going..
 <br>If you’re still reading this till here.. I just wanna say you’re 
 hella jobless… just kidding! XD
