@@ -2,7 +2,7 @@
 
 ## Stories
 ---
-## Muesum of Memories
+## Museum of Memories
 <br>
 1. [A peek to my past](past.md)
 ---
